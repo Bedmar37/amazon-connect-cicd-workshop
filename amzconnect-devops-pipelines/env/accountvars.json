@@ -7,21 +7,5 @@
         "account": "XXXXXXXXXXXX",
         "region": ["us-east-1", "us-west-2"],
         "app": "ACME"
-    },
-    {
-        "env": "staging",
-        "branch": "staging",
-        "enabled": true,
-        "account": "XXXXXXXXXXXX",
-        "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
-    },
-    {
-        "env": "prod",
-        "branch": "main",
-        "enabled": true,
-        "account": "XXXXXXXXXXXZ",
-        "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
     }]
 }

@@ -1,8 +1,8 @@
 {
     "accounts": [
     {
-        "env": "dev",
-        "branch": "develop",
+        "env": "prod",
+        "branch": "main",
         "enabled": true,
         "account": "078355010686",
         "region": ["us-west-2"],
